@@ -1,0 +1,11 @@
+.container{
+    background-color: #e3eff0;
+    padding: 50px;
+    border-radius: 7px;
+    margin-top: 200px;
+}
+
+.dark{
+    background-color: #39393c;
+    border-radius: 7px;
+}
